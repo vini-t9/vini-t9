@@ -4,17 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vini-t9&label=Profile%20views&color=0e75b6&style=flat" alt="vini-t9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vini-t9" alt="vini-t9" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/09_vinit" target="blank"><img src="https://img.shields.io/twitter/follow/09_vinit?logo=twitter&style=for-the-badge" alt="09_vinit" /></a> </p>
 
 - 🔭 I’m currently working on **Intranet System**
 
-- 🌱 I’m currently learning **ReactNative**
-
 - 🔭 I’m currently working on **Remote Work & Collaboration Platform**
 
 - 🔭 I’m currently working on **CodeSage(E-Learning App)**
+
+- 🌱 I’m currently learning **ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://itsvinitjha.tech](https://itsvinitjha.tech)
 
